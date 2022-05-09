@@ -6,8 +6,7 @@ Bootcamp Ignite Rocketseat - Finance API
 
 A aplicação é um API para gestão de transações bancárias.
 
-- Requisitos
-    Deve ser possível:
+Requisitos, deve ser possível:
       - criar uma conta
       - buscar o extrato bancário do cliente
       - realizar um depósito
@@ -17,8 +16,7 @@ A aplicação é um API para gestão de transações bancárias.
       - deletar uma conta
       - retornar o balanço da conta
 
-- Regras de negócio
-    Não deve ser possível:
+Regras de negócio, não deve ser possível:
       - cadastrar uma conta com CPF já existente
       - buscar extrato de uma conta não existente
       - fazer depósito em uma conta não existente
